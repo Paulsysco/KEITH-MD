@@ -16,7 +16,7 @@ const antibot = process.env.ANTIBOT || 'true';
 
 const botname = process.env.BOTNAME || 'KEITH-MD';
 
-const mode = process.env.MODE || 'private';
+const mode = process.env.MODE || 'public';
 
 const sessionName = "session";
 
